@@ -10,7 +10,7 @@ SwiftUI, Apple’s declarative UI framework was released in 2019 and has only go
 
 Below, we’ve compiled some of the best SwiftUI open-source projects and guides created by Better Programming authors. I hope it inspires you to build more stuff using this amazing framework.
 
-1\. [3D Bar Charts](https://medium.com/build-a-3d-bar-chart-in-scenekit-with-swiftui-789a2631ef6f)
+1\. [3D Bar Charts](https://betterprogramming.pub/build-a-3d-bar-chart-in-scenekit-with-swiftui-789a2631ef6f)
 ==================================================================================================
 
 We all love implementing charts in our SwiftUI apps. To our respite, Apple now has a Charts framework to quickly populate any type of chart.
@@ -26,14 +26,14 @@ With the new Charts framework, we have the ability to create line, area, rule, p
 
 [![SwiftUI Pie Charts](https://miro.medium.com/max/640/0*xW_E8GDd0eAlsRXP.gif)](https://betterprogramming.pub/build-pie-charts-in-swiftui-822651fbf3f2)
 
-3\. [The Snake Game](https://medium.com/how-to-create-the-snake-game-in-swiftui-14a7e8162bf3)
+3\. [The Snake Game](https://betterprogramming.pub/how-to-create-the-snake-game-in-swiftui-14a7e8162bf3)
 =============================================================================================
 
 A handy project that uses gestures to detect swipe directions while also leveraging the concept of arrays. You can check out the [full-tutorial by Sarah here](https://medium.com/how-to-create-the-snake-game-in-swiftui-14a7e8162bf3).
 
 [![](https://miro.medium.com/max/916/0*9xT_RBm27glSZB57.gif)](https://betterprogramming.pub/how-to-create-the-snake-game-in-swiftui-14a7e8162bf3)
 
-4\. [Emoji Hunter Game](https://medium.com/build-a-swiftui-core-ml-emoji-hunt-game-for-ios-eb4465ec4153)
+4\. [Emoji Hunter Game](https://betterprogramming.pub/build-a-swiftui-core-ml-emoji-hunt-game-for-ios-eb4465ec4153)
 ========================================================================================================
 
 What if real images could be translated to emojis? Here’s a [project](https://github.com/anupamchugh/iowncode/tree/master/SwiftUIVisionEmojiHunt) that uses Core ML and Vision to perform image classification in a SwiftUI app. It looks up the predicted label in a table of emoji<>strings.
@@ -47,42 +47,42 @@ An [implementation journey](https://medium.com/implement-a-scalable-and-configur
 
 ![](https://miro.medium.com/max/800/0*75gr1gG2yoS6V4-i.gif)
 
-6\. [Your Own Blog App](https://medium.com/build-your-own-blog-app-with-swiftui-3ee8196ecb84)
+6\. [Your Own Blog App](https://betterprogramming.pub/build-your-own-blog-app-with-swiftui-3ee8196ecb84)
 =============================================================================================
 
 A solid CMS prototype by [Roman Luzgin](https://shelkford.medium.com/) available in [his repository](https://github.com/roman-luzgin/BlogAppSwiftUI) shows how to create your own blog app in SwiftUI with a customizable interface. Here’s the [complete guide to implementing it](https://medium.com/build-your-own-blog-app-with-swiftui-3ee8196ecb84).
 
 [![](https://miro.medium.com/max/1400/0*iFoyFCB5GcMa45wE.png)](https://betterprogramming.pub/build-your-own-blog-app-with-swiftui-3ee8196ecb84)
 
-7\. [A Reddit Client App](https://medium.com/build-your-own-blog-app-with-swiftui-3ee8196ecb84)
+7\. [A Reddit Client App](https://betterprogramming.pub/build-your-own-blog-app-with-swiftui-3ee8196ecb84)
 ===============================================================================================
 
 One list row for each Reddit post, another screen to show the entire list  of posts, with a search field, and a third for displaying the web content are all it took for [Eric](https://medium.com/@eriklasky) to create a Reddit client app using SwiftUI. It’s available in this [GitHub repository](https://github.com/etlasky/Reddit-SwiftUI) with a [hands-on tutorial](https://medium.com/making-a-simple-reddit-app-with-swiftui-d0a3e76d980a) as well.
 
 [![](https://miro.medium.com/max/840/0*9csbfdn7jN9Rv97t.gif)](https://betterprogramming.pub/making-a-simple-reddit-app-with-swiftui-d0a3e76d980a)
 
-8\. [A UIKit-like Toolbar](https://medium.com/a-swiftui-toolbar-777523c03b7d)
+8\. [A UIKit-like Toolbar](https://betterprogramming.pub/a-swiftui-toolbar-777523c03b7d)
 =============================================================================
 
 Before SwiftUI for iOS 14, there was no way of creating a SwiftUI Toolbar like in UIKit. So, [Keith Lander](https://medium.com/@keithlander) implemented his own Swift package called ToolbarSUI. The code is available [on GitHub](https://github.com/writing-shed/ToolbarSUI).
 
 [![](https://miro.medium.com/max/1400/0*UsjwOxpDFYDlqt4w.png)](https://betterprogramming.pub/a-swiftui-toolbar-777523c03b7d)
 
-9\. [Custom Popups Bubbles](https://medium.com/cgaffinetransforms-arcs-and-quad-curves-in-swiftui-41e1dbfe6161)
+9\. [Custom Popups Bubbles](https://betterprogramming.pub/cgaffinetransforms-arcs-and-quad-curves-in-swiftui-41e1dbfe6161)
 ===============================================================================================================
 
 By leveraging, `CGAffineTransforms`, Arcs, and Quad Curves, [Aubree Quiroz](https://medium.com/@aubreequiroz?source=post_page-----41e1dbfe6161--------------------------------) shows how to create custom popup bubble shapes with anchor points:
 
 [![](https://miro.medium.com/max/1400/0*Q8cPJU9MKAzQJ4Ja.png)](https://betterprogramming.pub/cgaffinetransforms-arcs-and-quad-curves-in-swiftui-41e1dbfe6161)
 
-10\. [Tinder-Style Swipeable Cards](https://medium.com/swiftui-create-a-tinder-style-swipeable-card-view-283e257cb102)
+10\. [Tinder-Style Swipeable Cards](https://betterprogramming.pub/swiftui-create-a-tinder-style-swipeable-card-view-283e257cb102)
 ======================================================================================================================
 
 By combining `GeometryReader`, gestures, and offsets, [Brandon Baars](https://brandonleebaars.medium.com/?source=post_page-----283e257cb102--------------------------------)’ [project](https://github.com/bbaars/SwiftUI-Tinder-SwipeableCards) shows how to quickly build a swipeable cards SwiftUI prototype that’s popular in all dating apps today. Here’s the [tutorial](https://medium.com/swiftui-create-a-tinder-style-swipeable-card-view-283e257cb102) that walks us through the complete implementation.
 
 [![](https://miro.medium.com/max/1400/0*HAWPpMKr1tXnSKkN.png)](https://betterprogramming.pub/swiftui-create-a-tinder-style-swipeable-card-view-283e257cb102)
 
-11\. [Animating Credit Cards](https://medium.com/how-to-create-fun-animations-in-swiftui-1c08adcb93ce)
+11\. [Animating Credit Cards](https://betterprogramming.pub/how-to-create-fun-animations-in-swiftui-1c08adcb93ce)
 ======================================================================================================
 
 Building animations in SwiftUI is a lot easier than in UIKit. Harnessing the Metal framework out of the box makes SwiftUI animations only more powerful and intuitive.
@@ -91,42 +91,42 @@ Building animations in SwiftUI is a lot easier than in UIKit. Harnessing the Met
 
 [![](https://miro.medium.com/max/640/0*iwcvcCoK0ejMxOxl.gif)](https://betterprogramming.pub/how-to-create-fun-animations-in-swiftui-1c08adcb93ce)
 
-12\. [An iPod App](https://medium.com/how-to-create-fun-animations-in-swiftui-1c08adcb93ce)
+12\. [An iPod App](https://betterprogramming.pub/how-to-create-fun-animations-in-swiftui-1c08adcb93ce)
 ===========================================================================================
 
 Who doesn’t remember the classic wheel picker and album cover flow of iPods! Back-to-back [inspiring projects](https://github.com/fermoya/iPod) by Fernando. This one shows how to replicate the iPod design by using the divide-and-conquer strategy. Here’s a [tutorial](https://medium.com/build-a-classic-ipod-app-with-swiftui-f1ff3f19b97e) on it.
 
 [![](https://miro.medium.com/max/592/0*2sE4N4oLbSLmFOvG.gif)](https://betterprogramming.pub/build-a-classic-ipod-app-with-swiftui-f1ff3f19b97e)
 
-13\. [Sentiment-Classifier App](https://medium.com/create-a-sentiment-analyser-app-with-createml-and-swiftui-1a24071b6894)
+13\. [Sentiment-Classifier App](https://betterprogramming.pub/create-a-sentiment-analyser-app-with-createml-and-swiftui-1a24071b6894)
 ==========================================================================================================================
 
 Creating machine learning models and running them on-device with less boilerplate code is enticing to build AI-based apps. [Fred Gray](https://fredclampgray.medium.com/?source=user_profile-------------------------------------) shows [how to predict](https://medium.com/create-a-sentiment-analyser-app-with-createml-and-swiftui-1a24071b6894) whether a statement is positive or negative in real-time and display emojis — using SwiftUI, CoreML, CreateML, and `NaturalLanguage` framework.
 
 [![](https://miro.medium.com/max/694/0*QOraPnXBqqfo1MIN.gif)](https://betterprogramming.pub/create-a-sentiment-analyser-app-with-createml-and-swiftui-1a24071b6894)
 
-14\. [Animal Crossing Game](https://medium.com/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df)
+14\. [Animal Crossing Game](https://betterprogramming.pub/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df)
 ==============================================================================================================
 
-Taking a cue from the popular game, [Thomas Ricouard](https://dimillian.medium.com/?source=post_page-----aaf3528c1df--------------------------------)’s [open-source project](https://github.com/Dimillian/ACHNBrowserUI) is a full-featured SwiftUI helper app. The repository is a gold mine for [learning the fundamentals](https://medium.com/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df) of SwiftUI and Combine.
+Taking a cue from the popular game, [Thomas Ricouard](https://dimillian.medium.com/?source=post_page-----aaf3528c1df--------------------------------)’s [open-source project](https://github.com/Dimillian/ACHNBrowserUI) is a full-featured SwiftUI helper app. The repository is a gold mine for [learning the fundamentals](https://betterprogramming.pub/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df) of SwiftUI and Combine.
 
 [![](https://miro.medium.com/max/1400/0*3wosgiIJDXGxgZKw.png)](https://betterprogramming.pub/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df)
 
-15\. [Flexible Picker](https://medium.com/flexible-picker-with-swiftui-5817ffe9fddf)
+15\. [Flexible Picker](https://betterprogramming.pub/flexible-picker-with-swiftui-5817ffe9fddf)
 ====================================================================================
 
-Based on a Dribbble design, [this project](https://github.com/jcholuj/FlexiblePickerExample) shows how to create custom flexible pickers with selectable views in SwiftUI. [Jędrzej Chołuj](https://medium.com/@jedrzejcholuj?source=post_page-----5817ffe9fddf--------------------------------) has described the entire implementation in [this story](https://medium.com/flexible-picker-with-swiftui-5817ffe9fddf).
+Based on a Dribbble design, [this project](https://github.com/jcholuj/FlexiblePickerExample) shows how to create custom flexible pickers with selectable views in SwiftUI. [Jędrzej Chołuj](https://medium.com/@jedrzejcholuj?source=post_page-----5817ffe9fddf--------------------------------) has described the entire implementation in [this story](https://betterprogramming.pub/flexible-picker-with-swiftui-5817ffe9fddf).
 
 [![](https://miro.medium.com/max/286/0*pMMqKkXiYUE3Ce68.gif)](https://betterprogramming.pub/flexible-picker-with-swiftui-5817ffe9fddf)
 
-16\. [Multiple Complications in watchOS](https://medium.com/multiple-complications-in-watchos-7-3a07b7bd566b)
+16\. [Multiple Complications in watchOS](https://betterprogramming.pub/multiple-complications-in-watchos-7-3a07b7bd566b)
 =============================================================================================================
 
-This [project](https://github.com/andrew-codechimp/Multi-Complication-Example) walks us through adding different complications, updating them when descriptions change, and also responding to taps. Here’s the [accompanying tutorial](https://medium.com/multiple-complications-in-watchos-7-3a07b7bd566b) on it by [Andrew Jackson](https://medium.com/@codechimp_org?source=user_profile-------------------------------------).
+This [project](https://github.com/andrew-codechimp/Multi-Complication-Example) walks us through adding different complications, updating them when descriptions change, and also responding to taps. Here’s the [accompanying tutorial](https://betterprogramming.pub/multiple-complications-in-watchos-7-3a07b7bd566b) on it by [Andrew Jackson](https://medium.com/@codechimp_org?source=user_profile-------------------------------------).
 
 [![](https://miro.medium.com/max/1156/0*-SnfFm_dGxVmB_84.gif)](https://betterprogramming.pub/multiple-complications-in-watchos-7-3a07b7bd566b)
 
-17\. [Previewing Photos](https://medium.com/how-to-preview-photos-in-swiftui-6c3a04d40bda)
+17\. [Previewing Photos](https://betterprogramming.pub/how-to-preview-photos-in-swiftui-6c3a04d40bda)
 ==========================================================================================
 
 Sarah shows how to scale and animate photos in a grid through SwiftUI gestures.
@@ -140,7 +140,7 @@ Add particle emitters by leveraging SpriteKit to create a rain/lightning animati
 
 ![](https://miro.medium.com/max/720/0*zg-vFwK-eWCcB2nH.gif)
 
-19\. [Building Widgets](https://medium.com/build-your-first-widget-in-ios-14-with-widgetkit-9b893423e815)
+19\. [Building Widgets](https://betterprogramming.pub/build-your-first-widget-in-ios-14-with-widgetkit-9b893423e815)
 =========================================================================================================
 
 WidgetKit was introduced with iOS 14, and building widgets using SwiftUI is a whole lot easier today. Like this [project](https://github.com/iAkashlal/SwiftUI-Widgets) explores the process of creating a [weight progress widget](https://medium.com/build-your-first-widget-in-ios-14-with-widgetkit-9b893423e815) with a step-by-step tutorial by [Akashlal Bathe](https://medium.com/@iAkashlal?source=post_page-----9b893423e815--------------------------------).
