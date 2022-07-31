@@ -1,7 +1,7 @@
 50+ SwiftUI Open Source Projects With Guided Tutorials
 ======================================================
 
-A collection of SwiftUI projects published on Better Programming
+A collection of SwiftUI projects [published on Better Programming] (https://betterprogramming.pub/swiftui-projects-9e1dcba55c0c)
 ----------------------------------------------------------------
 
 ![](https://miro.medium.com/max/1400/0*SiDRaOnFBktyY0Qd)Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
