@@ -37,7 +37,7 @@ What if real images could be translated to emojis? Here’s a [project](https://
 
 ## 5. [Multi-toggles](https://betterprogramming.pub/implement-a-scalable-and-configurable-multi-toggle-swiftui-screen-ea484ef90691)
 
-An [implementation journey](https://betterprogramming.pub/implement-a-scalable-and-configurable-multi-toggle-swiftui-screen-ea484ef90691) that explores the Toggle APIs and with workarounds for the issues faced — by [Riccardo Cipolleschi](undefined).
+An [implementation journey](https://betterprogramming.pub/implement-a-scalable-and-configurable-multi-toggle-swiftui-screen-ea484ef90691) that explores the Toggle APIs and with workarounds for the issues faced — by [Riccardo Cipolleschi](https://riccardocipolleschi.medium.com/).
 
 ![](https://cdn-images-1.medium.com/max/2000/0*75gr1gG2yoS6V4-i.gif)
 
