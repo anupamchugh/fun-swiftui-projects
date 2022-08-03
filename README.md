@@ -1,7 +1,7 @@
 
 # 50+ SwiftUI Open Source Projects With Guided Tutorials
 
-A collection of SwiftUI projects published on [Better Programming](https://betterprogramming.pub/)
+A collection of SwiftUI projects published on [Better Programming](https://betterprogramming.pub/).
 
 SwiftUI, Apple’s declarative UI framework was released in 2019 and has only gotten better from there.
 
